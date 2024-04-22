@@ -11,7 +11,7 @@ A simple Rofi script for picking emojis.
 - [awk](https://github.com/onetrueawk/awk)
 
 ## Setup
-- `git clone https://github.com/Rizwan-V-Kandy/Rofi-Emoji-Picker`
+- `https://github.com/Hyxal-V/Rofi-Emoji-Picker/`
 
 - `cd Rofi-Emoji-Picker/Rofi`
 
